@@ -8,7 +8,7 @@ A Java Mindustry mod template that works on Android and PC. The Kotlin version o
 3. Your mod jar will be in the `build/libs` directory. **Only use this version for testing on desktop. It will not work with Android.**
 To build an Android-compatible version, you need the Android SDK. You can either let Github Actions handle this, or set it up yourself. See steps below.
 
-## Building through Github Actions1
+## Building through Github Actions
 
 This repository is set up with Github Actions CI to automatically build the mod for you every commit. This requires a Github repository, for obvious reasons.
 To get a jar file that works for every platform, do the following:
